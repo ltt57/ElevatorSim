@@ -26,7 +26,7 @@ public class Main {
       // Exit option
       if ("exit".equals(opt)) {
         System.out.println("Cya Later!");
-        System.exit(0);
+        break;
       } 
         
       // Floor options 1-4
